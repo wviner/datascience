@@ -3,10 +3,10 @@ datascience
 
 repo for Data Science Coursera course
 
-## This is a secondary heading
-### This is a tertiary heading
+## Data Science Specialization
 
-* first item in list
-* second item in list
+* Uses R
+* Nine courses
+* Goes from raw data to data products
  
 
